@@ -1,1 +1,3 @@
-google-genai
+streamlit
+pandas
+openai
